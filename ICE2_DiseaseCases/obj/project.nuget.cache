@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wp6dT7ZP0vDMSpuzFxioMgb495vqmALPIubrgEEVBBhn0RVTSdbcwhGsmJzSDilywl/Ij9W9czDiwOlGRbYSQ==",
+  "success": true,
+  "projectFilePath": "D:\\.NETD\\NETD2202_Assessments\\ICE2_DiseaseCases\\ICE2_DiseaseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smitr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
